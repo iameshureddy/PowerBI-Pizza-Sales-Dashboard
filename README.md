@@ -1,4 +1,5 @@
 🍕 Pizza Sales Dashboard — Power BI
+
 📊 Project Overview
 
 The Pizza Sales Dashboard is an interactive Business Intelligence (BI) solution developed using Microsoft Power BI to analyze sales performance, customer ordering behavior, and product trends.
@@ -91,20 +92,17 @@ Data Visualization
 Business Intelligence Techniques
 
 
-📂 Repository Structure
-Pizza-Sales-Dashboard
-│
-├── PIZZA SALES DASHBOARD.pbix
-├── pizza_sales.csv
-|--PIZZA SALES SQL QUERIES.pdF
-├── dashboard.png
-└── README.md
+
 
 
 
 
 Dashboard Preview
+
 <img width="1066" height="693" alt="Screenshot 2026-02-25 140649" src="https://github.com/user-attachments/assets/db6afa95-3a36-4df6-ae73-3c841651cac3" />
+
+
+
 <img width="1139" height="696" alt="image" src="https://github.com/user-attachments/assets/f9cf4004-6673-48a7-bf21-e20145b6c77f" />
 
 
