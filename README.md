@@ -34,6 +34,7 @@ Average Pizzas per Order
 These KPIs help evaluate overall business performance quickly.
 
 📊 Dashboard Features
+
 🔹 Sales Performance Analysis
 
 Daily order trend visualization
@@ -41,6 +42,7 @@ Daily order trend visualization
 Monthly sales trend analysis
 
 Revenue tracking over time
+
 
 🔹 Category Analysis
 
@@ -50,11 +52,13 @@ Identification of top-performing categories
 
 Comparative performance insights
 
+
 🔹 Size Analysis
 
 Sales contribution by pizza size
 
 Customer preference understanding
+
 
 🔹 Product Performance
 
@@ -64,6 +68,7 @@ Least-performing pizzas
 
 Category-wise order comparison
 
+
 🔹 Interactive Filters
 
 Pizza Category slicer
@@ -71,6 +76,7 @@ Pizza Category slicer
 Date range filter
 
 Dynamic visual updates
+
 
 🧰 Tools & Technologies Used
 
@@ -83,6 +89,7 @@ DAX (Data Analysis Expressions)
 Data Visualization
 
 Business Intelligence Techniques
+
 
 📂 Repository Structure
 Pizza-Sales-Dashboard
@@ -109,15 +116,12 @@ Install Power BI Desktop.
 
 Open Power BI Desktop.
 
-Click:
+Click:File → Open → Browse
 
-File → Open → Browse
-
-Select:
-
-PIZZA SALES DASHBOARD.pbix
+Select:PIZZA SALES DASHBOARD.pbix
 
 Refresh data if required.
+
 
 💡 Business Insights Generated
 
@@ -128,6 +132,7 @@ Large-size pizzas generate maximum revenue.
 Weekend evenings show peak ordering activity.
 
 Seasonal monthly variations affect total orders.
+
 
 👩‍💻 Author
 
